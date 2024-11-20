@@ -127,8 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cal.cpp" />
+    <ClCompile Include="calculatorStack.cpp" />
+    <ClCompile Include="category.cpp" />
+    <ClCompile Include="circularLinkedList.cpp" />
+    <ClCompile Include="doubleLickedList.cpp" />
+    <ClCompile Include="linkedList.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="pointerBasic.cpp" />
+    <ClCompile Include="queueCircular.cpp" />
+    <ClCompile Include="queueLinkedList.cpp" />
+    <ClCompile Include="stackAraay.cpp" />
+    <ClCompile Include="stackLinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
